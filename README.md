@@ -5,7 +5,7 @@
 
 |№|Лабораторная работа|Максимальное количество баллов|
 |------|-----|-----|
-|1|[Верстка landing page](https://github.com/unvir/react-native_voting_app)|10|
+|1|[Верстка landing page](https://github.com/unvir/Web-programming-course-spring-2020/tree/master/lab1)|10|
 |2| | |
 |3| | |
 |4| | |

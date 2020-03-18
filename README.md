@@ -7,7 +7,7 @@
 |------|-----|-----|
 |1|[Верстка landing page](https://github.com/unvir/Web-programming-course-spring-2020/tree/master/lab1)|10|
 |2|[Эффективная анимация](https://github.com/unvir/Web-programming-course-spring-2020/tree/master/lab2)|10|
-|3| | |
+|3|[Основы Javascript](https://github.com/unvir/Web-programming-course-spring-2020/tree/master/lab3)|10|
 |4| | |
 |5| | |
 
